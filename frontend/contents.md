@@ -30,7 +30,7 @@
 <li class="fragment">実質reactかvueかの２択に収束かと思いきや</li>
 <li class="fragment">今年はESM+WebComponentsでベストプラクティスが生まれそう</li>
 </ul>
-<img src="/character_program_shock.png" class="fragment" style="position:absolute;margin:auto;left:0;top:0;right:0;bottom:0">
+<img src="./character_program_shock.png" class="fragment" style="position:absolute;margin:auto;left:0;top:0;right:0;bottom:0">
 
 ====
 
@@ -47,7 +47,7 @@
 <li class="fragment">ユーザーもロードが早くなり快適に</li>
 </ul>
 
-<img src="/character_program_happy.png" class="fragment" style="position:absolute;margin:auto;left:0;top:0;right:0;bottom:0">
+<img src="./character_program_happy.png" class="fragment" style="position:absolute;margin:auto;left:0;top:0;right:0;bottom:0">
 
 ====
 
@@ -78,7 +78,7 @@ TypeScript、DartやWebAssembly勢の成長が著しい。
 <h2 class="fragment">JavaScriptを書きたくないでござる！</h2>
 <h1 class="fragment"><strong>絶対に</strong>JavaScriptを書きたくないでござる！</h1>
 
-<img src="/okotowari_shimasu_man.png" class="fragment" style="position:absolute;margin:auto;left:0;top:0;right:0;bottom:0">
+<img src="./okotowari_shimasu_man.png" class="fragment" style="position:absolute;margin:auto;left:0;top:0;right:0;bottom:0">
 
 ====
 

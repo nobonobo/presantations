@@ -2,7 +2,7 @@ body {
   overflow: hidden;
   font-size: 4.2vh;
   line-height: 110%;
-  background: url(/background.jpg) no-repeat center cornflowerblue;
+  background: url(./background.jpg) no-repeat center cornflowerblue;
   background-position: top;
   background-size: 100vw 100vh;
 }
