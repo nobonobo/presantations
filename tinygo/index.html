@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="GoVecty" />
+  </head>
+
+  <body>
+    <div id="searchlight"></div>
+  </body>
+  <script src="tinygo.js"></script>
+  <script>
+    var link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.type = "text/css";
+    link.href = window.location.search.match(/print-pdf/gi)
+      ? "assets/lib/css/print/pdf.css"
+      : "assets/lib/css/print/paper.css";
+    document.getElementsByTagName("head")[0].appendChild(link);
+  </script>
+</html>
