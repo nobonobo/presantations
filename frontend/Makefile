@@ -1,4 +1,4 @@
-SRCDIR := $(PWD)
+SRCDIR := $(shell pwd)
 DSTDIR := ../gh-pages/$(notdir $(SRCDIR))
 
 export index_html
