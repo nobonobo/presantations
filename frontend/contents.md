@@ -429,7 +429,7 @@ resp, err := client.GetUser(context.Background(), &web.GetUserRequest{
 <li class="fragment">TinyGoが吐くWASMサイズはGoの20%程度</li>
 <li class="fragment">GoのgRPC-Webはプロダクションレディ（と作者が発言）</li>
 <li class="fragment"><strong>実はこのスライドショーGo＆Vectyで自作</strong></li>
-<li class="fragment">ソース: http://github.com/nobonobo</li>
+<li class="fragment">ソース: https://bit.ly/2KiBFCX</li>
 </ul>
 
 ====
