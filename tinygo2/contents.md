@@ -423,7 +423,10 @@ dockerでtinygo側にマウントしましょう<br/>
 - USB機器/ホスト
 - LoRa/3G/LTE
 
-<h2 class="fragment">ドライバサポートが必要</h2>
+<h2 class="fragment">
+ドライバサポートが必要<br/>
+https://github.com/tinygo-org/drivers/ を参照
+</h2>
 
 ====
 
