@@ -423,7 +423,10 @@ dockerでtinygo側にマウントしましょう<br/>
 - USB機器/ホスト
 - LoRa/3G/LTE
 
-<h2 class="fragment">ドライバサポートが必要</h2>
+<h2 class="fragment">
+ドライバサポートが必要<br/>
+https://github.com/tinygo-org/drivers/ を参照
+</h2>
 
 ====
 
@@ -550,3 +553,14 @@ $ ls -lh
 - WebGLサンプルが圧縮で9KBサイズになった事例あり
 - 本家の代わりに使う、WASM勢、LLVM勢などが参入する可能性
 - RISC-V、ゲームボーイアドバンスの開発も可能になった
+- TinyGoがWindowsでも動くようになりつつある
+
+====
+
+# 質問？
+
+====
+
+<div style="position: relative; height: 70vh;">
+<h1 style="position:absolute; top: 50%; left: 50%; transform : translate(-50%,-50%);">おわり</h1>
+</div>
