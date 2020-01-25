@@ -146,6 +146,7 @@ https://github.com/nobonobo/presantations/blob/master/MakingToy/gopher.go
 # まとめ
 
 - このプレゼンツール自体 Go 製
+- 近日[goldmark](https://github.com/yuin/goldmark/)対応して公開予定
 - Go でもフロントエンド作れる
 - ツラミもあります
 - 初心者ネタも深いネタも懇親会で聞いて！
