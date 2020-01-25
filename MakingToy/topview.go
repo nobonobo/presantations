@@ -233,5 +233,5 @@ func (c *TopView) Render() vecty.ComponentOrHTML {
 // OnLoad ...
 func (c *TopView) OnLoad(ev *vecty.Event) {
 	c.loadCompleted = true
-	//SetupGopher()
+	SetupGopher()
 }
