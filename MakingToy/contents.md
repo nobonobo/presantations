@@ -56,10 +56,14 @@
 
 ====
 
-<div style="position: relative; height: 50vh;">
-<h1 style="position:absolute; top: 50%; left: 50%; transform : translate(-50%,-50%);">Gopherになるには</h1>
-</div>
+# Gopher になるには
+
+<a href="https://nobonobo.github.io/presantations/MakingToy/#7">
+<img src="images/qr-url.png"/>
+</a>
+<p>
 <b class="fragment">G キーを押すのです！</b>
+</p>
 
 ====
 
@@ -112,6 +116,10 @@
 - canvas を WebGL 用にセットアップ（背景透過）
 - カプセルと球のジオメトリで Gopher を組み立てる
 
+https://github.com/nobonobo/presantations/blob/master/MakingToy/gopher.go
+
+上記の「NewGopher 関数」を参考にしてください。
+
 ====
 
 # 三次元座標に変換して Gopher の座標に適用
@@ -128,6 +136,37 @@
 ```
 
 ====
+
+# 本当はこれをつくりたい
+
+<img class="fragment" src="images/enjoy.png" style="height: 70vh" />
+
+====
+
+# まとめ
+
+- このプレゼンツール自体 Go 製
+- Go でもフロントエンド作れる
+- ツラミもあります
+- 初心者ネタも深いネタも懇親会で聞いて！
+
+====
+
+# 宣伝
+
+144Lab では様々な IoT 案件に取り組んでいます
+
+- BLE
+- LoRa
+- LTE-M
+
+これらのモジュールも順次スイッチサイエンスで販売していきます！
+
+====
+
+# 滋賀で実験
+
+<img class="fragment" src="images/lora.png" style="height: 70vh" />
 
 ====
 
