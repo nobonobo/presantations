@@ -43,7 +43,7 @@ func (c *TopView) Render() vecty.ComponentOrHTML {
 		),
 		elem.Script(
 			vecty.Markup(
-				prop.Src("js/camera.283d5d54.js"),
+				prop.Src("js/camera.283d5d54.js?t=1"),
 			),
 		),
 		elem.Script(

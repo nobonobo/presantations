@@ -228,6 +228,4 @@ div.dg {
 canvas#output {
   z-index: 2;
   position: absolute;
-  bottom: 0;
-  right: 0;
 }

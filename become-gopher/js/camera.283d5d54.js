@@ -41268,7 +41268,7 @@ function detectPoseInRealTime(video, net) {
         break;
     }
 
-    window.postMessage(poses);
+    window.postMessage(poses, "*");
     /*
     ctx.clearRect(0, 0, videoWidth, videoHeight);
      if (guiState.output.showVideo) {
